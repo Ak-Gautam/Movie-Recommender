@@ -15,4 +15,16 @@ This project contains two type of recommenders:
 - Collaborative Filtering (based on director, cast, genres, etc)
 
 #### This is supposed to be a learning technique and not an end-to-end solution.
-More details are inside the notebook
+<hr>
+
+## Content Based Recommender:
+
+![Content based result](./assets/mrS1.png)
+Note how the recommendations are mostly related to Batman.
+
+## Collaborative Filtering:
+
+![Collaborative Filtering](./assets/mrS2.png)
+Note that here the displayed movies are picked randomly from the list of top movies picked by the model to create more diversity.
+
+<i><b>More details are inside the notebook</b></i>
