@@ -7,7 +7,7 @@ Author: '@Gautam-flash'
 ## Movie-Recommender
 ### A bad way to do things
 This is a Movie Recommender based on the [MovieLens dataset](https://grouplens.org/datasets/movielens/latest/).<hr>
-This whole project is very heavy on the Memory as workingwith a lot of text data is expensive on the RAM. <br>
+This whole project is very heavy on the Memory as working with a lot of text data is expensive on the RAM. <br>
 
 ## Dataset:
 - movies_metadata.csv
